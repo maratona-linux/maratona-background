@@ -1,4 +1,4 @@
-#Maratona Background
+# Maratona Background
 
 Este repositório trata do pacote maratona-background para o Maratona Linux.
 
@@ -8,7 +8,7 @@ instalação padrão do ubuntu em Maratona Linux.
 Esta modificação do Ubuntu é utilizada como ambiente de programação oficial
 dos competidores da Maratona de Programação no Brasil.
 
-#Instalação
+# Instalação
 
 Todos os pacotes estão disponíveis no PPA:
 https://launchpad.net/~brunoribas/+archive/ubuntu/ppa-maratona
@@ -21,6 +21,6 @@ sudo apt-get update
 sudo apt-get install maratona-background
 ```
 
-#Todos o pacotes
+# Todos o pacotes
 
 Veja o pacote maratona-meta, ele tem todas as dependências
