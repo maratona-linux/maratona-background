@@ -1,5 +1,5 @@
 #!/bin/bash
 
-#rm -f /usr/share/backgrounds/warty-final-ubuntu.png
-#dpkg-divert --rename --remove /usr/share/backgrounds/warty-final-ubuntu.png
+rm -f /usr/share/backgrounds/warty-final-ubuntu.png
+dpkg-divert --rename --remove /usr/share/backgrounds/warty-final-ubuntu.png
 

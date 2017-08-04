@@ -1,3 +1,10 @@
+maratona-background (2017.1-1) xenial; urgency=medium
+
+  * Bump to 2017 version
+  * Added Brazilian First Phase Wallpaper
+
+ -- Bruno Ribas <brunoribas@utfpr.edu.br>  Thu, 04 Aug 2017 14:16:22 -0200
+
 maratona-background (2016.1-2) xenial; urgency=medium
 
   * Don't update wallpaper
