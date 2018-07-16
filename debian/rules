@@ -2,7 +2,7 @@
 
 override_dh_auto_install:
 	mkdir -p debian/maratona-background/usr/share/maratona-background/
-	cp maratona-brasil-first-phase-2017.png debian/maratona-background/usr/share/maratona-background/
+	cp maratona-Brasil-2018.png debian/maratona-background/usr/share/maratona-background/
 
 %:
 	dh $@
