@@ -1,3 +1,10 @@
+maratona-background (20180826) bionic; urgency=medium
+
+  * Wall Berg Morais (1):
+      Adicionando aviso para usuário no background.
+
+ -- Bruno Cesar Ribas <brunoribas@gmail.com>  Sun, 26 Aug 2018 15:17:15 -0300
+
 maratona-background (20180820) bionic; urgency=medium
 
   * Bump to 2018 version
