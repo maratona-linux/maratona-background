@@ -1,8 +1,5 @@
 #! /usr/bin/make -f
-
-override_dh_auto_install:
-	mkdir -p debian/maratona-background/usr/share/maratona-background/
-	cp maratona-LATAM-2018.png debian/maratona-background/usr/share/maratona-background/
+#export DH_VERBOSE = 1
 
 %:
 	dh $@
