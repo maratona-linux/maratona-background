@@ -1,0 +1,4 @@
+debian/files
+debian/maratona-background.debhelper.log
+debian/maratona-background.substvars
+debian/maratona-background/
