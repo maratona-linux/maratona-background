@@ -1,0 +1,2 @@
+# prevent changes to the company wallpaper
+/org/gnome/desktop/background/picture-uri
