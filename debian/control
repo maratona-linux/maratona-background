@@ -1,7 +1,7 @@
 Source: maratona-background
 Section: misc
 Priority: optional
-Maintainer: Bruno Ribas <brunoribas@utfpr.edu.br>
+Maintainer: Bruno Ribas <bruno.ribas@unb.br>
 Build-Depends: debhelper
 Standards-Version: 3.9.8
 
