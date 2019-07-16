@@ -1,6 +1,0 @@
-#!/bin/bash
-
-dpkg-divert --divert /usr/share/backgrounds/warty-final-ubuntu.png.orig \
-            --rename /usr/share/backgrounds/warty-final-ubuntu.png
-
-ln -s /usr/share/maratona-background/maratona-LATAM-2018.png /usr/share/backgrounds/warty-final-ubuntu.png
