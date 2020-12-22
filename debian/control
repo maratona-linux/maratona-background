@@ -7,5 +7,4 @@ Standards-Version: 3.9.8
 
 Package: maratona-background
 Architecture: all
-Depends: ubuntu-wallpapers, dconf-tools
 Description: Pacote com o background atualizado da Maratona
