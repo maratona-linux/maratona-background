@@ -8,7 +8,7 @@ install: install-wallpaper dconf-config
 
 install-wallpaper:
 	install -d $(DESTDIR)$(prefix)/share/maratona-background/
-	install -m 644 maratona-Brasil-testing.png $(DESTDIR)$(prefix)/share/maratona-background/
+	install -m 644 maratona-common-wallpaper.png $(DESTDIR)$(prefix)/share/maratona-background/
 
 dconf-config:
 	install -d $(DESTDIR)/etc/dconf/db/local.d
@@ -16,6 +16,8 @@ dconf-config:
 	install -m 644 local.d/95-ml-wallpaper-option $(DESTDIR)/etc/dconf/db/local.d/
 	install -d $(DESTDIR)/etc/dconf/db/local.d/locks
 	install -m 644 local.d/locks/90-wallpaper $(DESTDIR)/etc/dconf/db/local.d/locks/
+	install -d $(DESTDIR)/etc/dconf/db/gdm.d
+	install -m 644 gdm.d/90-wallpaper $(DESTDIR)/etc/dconf/db/gdm.d/
 
 clean:
 	:
