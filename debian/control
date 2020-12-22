@@ -6,5 +6,6 @@ Build-Depends: debhelper
 Standards-Version: 3.9.8
 
 Package: maratona-background
+Depends: dconf-cli
 Architecture: all
 Description: Pacote com o background atualizado da Maratona
