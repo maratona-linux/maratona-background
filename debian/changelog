@@ -1,3 +1,35 @@
+maratona-background (20210517) focal; urgency=medium
+
+  [ Bruno Cesar Ribas ]
+  * git rm d/{postrm,preinst}
+  * d/control: Updates maintainer email
+  * maratona-Brasil-testing.png: Add testing wallpaper
+  * local.d: Configurations files for GCONF
+  * .gitignore added
+  * .gitignore updated
+  * Makefile added
+  * d/postinst added
+  * d/rules: more simple
+
+  [ Bruno Ribas ]
+  * Added 2019 Brasil wallpaper
+
+  [ Guilherme Deusdará ]
+  * package depends on ubuntu-wallpapers and dconf-tools (#4)
+
+  [ Bruno Ribas ]
+  * Added a common wallpaper
+  * Revert "package depends on ubuntu-wallpapers and dconf-tools (#4)"
+  * d/control: dependes on dconf-cli
+  * local.d/90-ml-wallpaper sets to the new wallpaper
+  * Makefile: Installs new wallpaper, sets wallpaper in gdm profile
+  * Add gdm.d
+
+  [ Davi Antônio da Silva Santos ]
+  * Bump compat from 9 to 12
+
+ -- Davi Antônio da Silva Santos <antoniossdavi@gmail.com>  Mon, 17 May 2021 22:28:33 -0300
+
 maratona-background (20181018) bionic; urgency=medium
 
   * New LATAM wallpaper
