@@ -1,11 +1,16 @@
 Source: maratona-background
 Section: misc
 Priority: optional
-Maintainer: Bruno Ribas <bruno.ribas@unb.br>
+Maintainer: Bruno César Ribas <bruno.ribas@unb.br>
 Build-Depends: debhelper-compat (= 12)
 Standards-Version: 3.9.8
+Vcs-Git: https://github.com/maratona-linux/maratona-background.git
+Vcs-Browser: https://github.com/maratona-linux/maratona-background
 
 Package: maratona-background
 Depends: dconf-cli
 Architecture: all
 Description: Pacote com o background atualizado da Maratona
+ Este pacote realiza as alterações necessárias no sistema para que o plano de
+ fundo da área de trabalho seja substituído pelo configurado para a Maratona
+ Linux
