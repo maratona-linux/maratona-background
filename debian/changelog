@@ -1,3 +1,12 @@
+maratona-background (20210517.1) focal; urgency=medium
+
+  * Update .gitignore
+  * Update maintainer, description and add VCS links
+  * Enable exit on failure for postinst
+  * Update machine-readable copyright file
+
+ -- Davi Antônio da Silva Santos <antoniossdavi@gmail.com>  Mon, 28 Jun 2021 20:26:57 -0300
+
 maratona-background (20210517) focal; urgency=medium
 
   [ Bruno Cesar Ribas ]
