@@ -1,3 +1,14 @@
+maratona-background (20220830) jammy; urgency=medium
+
+  * Update README.md with current info
+    - replace old PPA link
+    - replace maratona-meta with maratona-desktop
+    - add extra formatting in the file
+    - replace apt-get by apt
+  * Change default wallpaper to the 2022 version
+
+ -- Davi Antônio da Silva Santos <antoniossdavi@gmail.com>  Tue, 30 Aug 2022 22:10:14 -0300
+
 maratona-background (20220517) jammy; urgency=medium
 
   * Bump debhelper compat from 12 to 13
