@@ -1,3 +1,9 @@
+maratona-background (20230113) jammy; urgency=medium
+
+  * Update debian/copyright years
+
+ -- Davi Antônio da Silva Santos <antoniossdavi@gmail.com>  Fri, 13 Jan 2023 23:32:52 -0300
+
 maratona-background (20220830) jammy; urgency=medium
 
   * Update README.md with current info
