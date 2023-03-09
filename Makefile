@@ -8,7 +8,7 @@ install: install-wallpaper dconf-config
 
 install-wallpaper:
 	install -d $(DESTDIR)$(prefix)/share/maratona-background/
-	install -m 644 maratona-common-wallpaper.png $(DESTDIR)$(prefix)/share/maratona-background/
+	install -m 644 maratona-2022-wallpaper.png $(DESTDIR)$(prefix)/share/maratona-background/
 
 dconf-config:
 	install -d $(DESTDIR)/etc/dconf/db/local.d
