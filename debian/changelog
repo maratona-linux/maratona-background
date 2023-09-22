@@ -1,3 +1,10 @@
+maratona-background (20230909) jammy; urgency=medium
+
+  * Add wallpaper for Chapecó 2023
+  * Set default wallpaper to 2023 Chapecó
+
+ -- Davi Antônio da Silva Santos <antoniossdavi@gmail.com>  Sun, 10 Sep 2023 14:15:38 -0300
+
 maratona-background (20230113) jammy; urgency=medium
 
   * Update debian/copyright years
